@@ -5,5 +5,11 @@ An Excel-based sales performance analysis project featuring data cleaning, KPI t
 -Pivot Tables
 -Charts
 -Dashboards
+# key insights
+-Total Sales
+-Total Profit
+-Highest sold product categor**y
+-Top 5 customers
+-sales by region 
 # Dasboard
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/f4b892f5-14d0-4124-b947-d635208c5717" />
