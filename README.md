@@ -8,7 +8,7 @@ An Excel-based sales performance analysis project featuring data cleaning, KPI t
 # key insights
 -Total Sales
 -Total Profit
--Highest sold product categor**y
+-Highest sold product category
 -Top 5 customers
 -sales by region 
 # Dasboard
